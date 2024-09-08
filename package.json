@@ -39,5 +39,11 @@
   },
   "engines": {
     "node": ">=20.0.0"
-  }
+  },
+  "description": "- 📖 [Remix docs](https://remix.run/docs)",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
